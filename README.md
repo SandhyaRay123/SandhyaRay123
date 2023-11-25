@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sandhya Ray
 - 👀 I’m interested in webdeveloper.
-- 🌱 I’m currently learning Html,css,Bootstrap,fontawesome.
+- 🌱 I’m currently learning Html,css,Bootstrap,fontawesome,wordpress Elementor.
 - 💞️ I’m looking to collaborate on anyone...
 - 📫 How to reach me plese tell me something.
 
